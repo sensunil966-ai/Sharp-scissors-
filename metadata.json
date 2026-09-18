@@ -1,0 +1,6 @@
+{
+  "name": "Sharp Scissors",
+  "description": "Premium barbershop grooming app for hair and beard styling, master cuts, beard trims, and appointment scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
